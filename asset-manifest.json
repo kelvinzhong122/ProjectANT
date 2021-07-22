@@ -1,24 +1,22 @@
 {
   "files": {
-    "main.css": "/ProjectANT/static/css/main.a617e044.chunk.css",
-    "main.js": "/ProjectANT/static/js/main.d15f6b22.chunk.js",
-    "main.js.map": "/ProjectANT/static/js/main.d15f6b22.chunk.js.map",
-    "runtime-main.js": "/ProjectANT/static/js/runtime-main.fcce9f4e.js",
-    "runtime-main.js.map": "/ProjectANT/static/js/runtime-main.fcce9f4e.js.map",
-    "static/js/2.b3be24a8.chunk.js": "/ProjectANT/static/js/2.b3be24a8.chunk.js",
-    "static/js/2.b3be24a8.chunk.js.map": "/ProjectANT/static/js/2.b3be24a8.chunk.js.map",
-    "static/js/3.427e8553.chunk.js": "/ProjectANT/static/js/3.427e8553.chunk.js",
-    "static/js/3.427e8553.chunk.js.map": "/ProjectANT/static/js/3.427e8553.chunk.js.map",
-    "index.html": "/ProjectANT/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/ProjectANT/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.b3be24a8.chunk.js.LICENSE.txt": "/ProjectANT/static/js/2.b3be24a8.chunk.js.LICENSE.txt",
-    "static/media/MCLAREN 1.c84c05bd.jpg": "/ProjectANT/static/media/MCLAREN 1.c84c05bd.jpg",
-    "static/media/logo.6ce24c58.svg": "/ProjectANT/static/media/logo.6ce24c58.svg"
+    "main.css": "/ProjectFail/static/css/main.74468b2e.chunk.css",
+    "main.js": "/ProjectFail/static/js/main.085fb2e5.chunk.js",
+    "main.js.map": "/ProjectFail/static/js/main.085fb2e5.chunk.js.map",
+    "runtime-main.js": "/ProjectFail/static/js/runtime-main.37924d6e.js",
+    "runtime-main.js.map": "/ProjectFail/static/js/runtime-main.37924d6e.js.map",
+    "static/js/2.469116f9.chunk.js": "/ProjectFail/static/js/2.469116f9.chunk.js",
+    "static/js/2.469116f9.chunk.js.map": "/ProjectFail/static/js/2.469116f9.chunk.js.map",
+    "index.html": "/ProjectFail/index.html",
+    "precache-manifest.a6332f3b42263df219ec31df40be46c7.js": "/ProjectFail/precache-manifest.a6332f3b42263df219ec31df40be46c7.js",
+    "service-worker.js": "/ProjectFail/service-worker.js",
+    "static/css/main.74468b2e.chunk.css.map": "/ProjectFail/static/css/main.74468b2e.chunk.css.map",
+    "static/js/2.469116f9.chunk.js.LICENSE.txt": "/ProjectFail/static/js/2.469116f9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fcce9f4e.js",
-    "static/js/2.b3be24a8.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.d15f6b22.chunk.js"
+    "static/js/runtime-main.37924d6e.js",
+    "static/js/2.469116f9.chunk.js",
+    "static/css/main.74468b2e.chunk.css",
+    "static/js/main.085fb2e5.chunk.js"
   ]
 }
