@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ProjectANT/static/css/main.a617e044.chunk.css",
+    "main.js": "/ProjectANT/static/js/main.d15f6b22.chunk.js",
+    "main.js.map": "/ProjectANT/static/js/main.d15f6b22.chunk.js.map",
+    "runtime-main.js": "/ProjectANT/static/js/runtime-main.fcce9f4e.js",
+    "runtime-main.js.map": "/ProjectANT/static/js/runtime-main.fcce9f4e.js.map",
+    "static/js/2.b3be24a8.chunk.js": "/ProjectANT/static/js/2.b3be24a8.chunk.js",
+    "static/js/2.b3be24a8.chunk.js.map": "/ProjectANT/static/js/2.b3be24a8.chunk.js.map",
+    "static/js/3.427e8553.chunk.js": "/ProjectANT/static/js/3.427e8553.chunk.js",
+    "static/js/3.427e8553.chunk.js.map": "/ProjectANT/static/js/3.427e8553.chunk.js.map",
+    "index.html": "/ProjectANT/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/ProjectANT/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b3be24a8.chunk.js.LICENSE.txt": "/ProjectANT/static/js/2.b3be24a8.chunk.js.LICENSE.txt",
+    "static/media/MCLAREN 1.c84c05bd.jpg": "/ProjectANT/static/media/MCLAREN 1.c84c05bd.jpg",
+    "static/media/logo.6ce24c58.svg": "/ProjectANT/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcce9f4e.js",
+    "static/js/2.b3be24a8.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d15f6b22.chunk.js"
+  ]
+}
